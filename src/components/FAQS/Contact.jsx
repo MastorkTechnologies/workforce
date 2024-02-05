@@ -10,7 +10,7 @@ const Contact = () => {
             <p className="text-[#667085] font-medium text-[1rem]">Can’t find the answer you’re looking for? Please chat to our friendly team.</p>
         </div>
         <div>
-            <button className="px-10 py-3 text-center bg-black text-[white] rounded-lg font-medium">Get in touch</button>
+            <a href="https://calendly.com/dhruv-aii/15min?month=2024-02" target="_blank" rel="noreferrer" className="px-10 py-3 text-center bg-black text-[white] rounded-lg font-medium">Get in touch</a>
         </div>
         </div>
     </div>
