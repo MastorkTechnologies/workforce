@@ -1,22 +1,34 @@
 [
     {
-        "Q": "How does the WhatsApp bot work?",
-        "A": "AI WhatsApp bots leverage natural language processing and machine learning to understand and respond to user messages. They are programmed to interpret user queries, provide relevant information, and can perform predefined actions based on user interactions."
+        "Q": "Is the AI agent available 24/7?",
+        "A": "Yes, our AI agent is designed to provide assistance around the clock, ensuring you have support whenever you need it."
     },
     {
-        "Q": "What tasks can an AI WhatsApp Bot perform?",
-        "A": "AI WhatsApp bots leverage natural language processing and machine learning to understand and respond to user messages. They are programmed to interpret user queries, provide relevant information, and can perform predefined actions based on user interactions."
+        "Q": "Can I provide feedback on the AI agent's responses?",
+        "A": "We welcome your feedback! Feel free to let us know how the AI agent can better assist you, and we'll continuously improve its capabilities."
     },
     {
-        "Q": "How can businesses benefit from using an AI WhatsApp Bot?",
-        "A": "AI WhatsApp bots leverage natural language processing and machine learning to understand and respond to user messages. They are programmed to interpret user queries, provide relevant information, and can perform predefined actions based on user interactions."
+        "Q": "Is my information secure with the AI agent?",
+        "A": "Yes, we prioritize the security and confidentiality of your information. Our AI agent adheres to stringent privacy and data protection standards."
     },
     {
-        "Q": "Can an AI WhatsApp Bot understand multiple languages?",
-        "A": "AI WhatsApp bots leverage natural language processing and machine learning to understand and respond to user messages. They are programmed to interpret user queries, provide relevant information, and can perform predefined actions based on user interactions."
+        "Q": "Can the AI agent assist with account-related issues?",
+        "A": "Absolutely! The AI agent is designed to help with account inquiries, password resets, and other account-related tasks."
     },
     {
-        "Q": "What is the cost associated with implementing an AI WhatsApp Bot?",
-        "A": "AI WhatsApp bots leverage natural language processing and machine learning to understand and respond to user messages. They are programmed to interpret user queries, provide relevant information, and can perform predefined actions based on user interactions."
+        "Q": "Can I speak to a human representative if needed?",
+        "A": "Yes, if the AI agent is unable to address your query, you will have the option to connect with a human representative for further assistance."
+    },
+    {
+        "Q": "How do I reset my password?",
+        "A": "You can reset your password through the AI agent by selecting the 'Forgot Password' option and following the prompts."
+    },
+    {
+        "Q": "Can I change my notification preferences?",
+        "A": "Yes, you can customize your notification settings by accessing the AI agent menu and selecting the 'Notification Preferences' option."
+    },
+    {
+        "Q": "How can I share the AI agent with friends?",
+        "A": "Easily share the AI agent by typing 'Share' and following the prompts to send a referral link to your friends."
     }
 ]
